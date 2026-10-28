@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  border: 1px solid black;
+  margin-bottom: 1em;
+}
+
+section {
+  border: 1px solid black;
+}
+
+section h2 {
+  text-align: center;
+}
